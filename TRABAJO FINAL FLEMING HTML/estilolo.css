@@ -1,0 +1,30 @@
+
+body{
+    background-color: #f95122;
+    font-family: "Passion One", sans-serif;
+    size: 500px;
+}
+
+    header{
+          
+    }
+
+
+.card {
+    display: flex;
+    margin-left: 3%;
+}
+
+.contenedor{
+    display: flex;
+    margin-left: 5%;
+    margin-top: 1%;
+}
+
+img{
+    height: 1460;
+}
+
+
+
+

@@ -1,0 +1,58 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-image: url('lel\ perel.jpg');
+    height: 400px;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+}
+img {
+    display:block;
+    margin: 0 auto;
+    border: 5px solid green;
+}
+h1 {    
+
+    font-size: 32px;
+    display:block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    color: green;
+    text-align:center;
+
+}
+div {
+    position: relative;
+    top: 0;
+    width: 300px;
+    height: auto;
+    overflow: visible;
+    float: left;
+    margin-right: 10px;
+
+}
+.Trunks {
+    float: right;
+    margin-right: 10px;
+}
+.androides {
+    float: left;
+    margin-left: 10px;
+}
+.Cell {
+    float: right;
+    margin-right: 10px;
+}
+.Cell_perfectooo {
+    float: left;
+    margin-left: 10px;
+}
+p {  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: block;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
